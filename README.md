@@ -6,7 +6,8 @@
 ![Stars](https://img.shields.io/github/stars/Albert1915/An4bulApp?style=for-the-badge)
 
 ## Features💡
--
+- Matching users with their pets
+- Detects images and produces output in the form of animal characteristics
 
 ## Technology 👨‍💻
 
