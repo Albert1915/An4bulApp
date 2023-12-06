@@ -10,7 +10,10 @@
 - Detects images and produces output in the form of animal characteristics
 
 ## Technology 👨‍💻
-
+An4bulApp is created using:
+- [Kotlin](https://kotlinlang.org/) -
+Python as the main programming language.
+- [Android Studio](https://developer.android.com/studio?gclid=CjwKCAiA1MCrBhAoEiwAC2d64asmnRKekTyDT4k9ME6el0GpGAoduk6qpH31kpGf7kYZbSzrgHIh0hoCedkQAvD_BwE&gclsrc=aw.ds) - Android Studio as an Integrated Development Environment (IDE) in Android application development.
 
 ## Contributors ✨
 <br>
