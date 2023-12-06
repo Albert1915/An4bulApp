@@ -7,6 +7,7 @@
 ## Features💡
 - Matching users with their pets
 - Detects images and produces output in the form of animal characteristics
+- 
 
 ## Technology 👨‍💻
 An4bulApp is created using:
